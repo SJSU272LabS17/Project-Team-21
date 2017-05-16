@@ -20,14 +20,14 @@ To get the Node server running locally:
 
 * Clone this repo
 * npm install to install all required dependencies
-...
+```
 npm install
-...
+```
 
 * npm start to start the local server
-...
+```
 npm start 
-...
+```
 # Code Overview
 
 ## Dependencies
