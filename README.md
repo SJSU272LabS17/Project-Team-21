@@ -47,7 +47,7 @@ npm start
 * public/ - This folder contains the static Angular JS 2 files for User Interface.
 * public1/- This folder contains the assets required for building a login page.
 
- ###  Youtube Link to our Project Video : https://www.youtube.com/watch?v=YWqZcVP687k
+ ###   Youtube Link to our Project Video : https://www.youtube.com/watch?v=YWqZcVP687k
 
 
 
