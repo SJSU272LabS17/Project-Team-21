@@ -811,7 +811,7 @@ function Sizzle( selector, context, results, seed ) {
 						return results;
 					}
 				} else {
-					// Context is not a document
+					// Context is not a document 
 					if ( context.ownerDocument && (elem = context.ownerDocument.getElementById( m )) &&
 						contains( context, elem ) && elem.id === m ) {
 						results.push( elem );
