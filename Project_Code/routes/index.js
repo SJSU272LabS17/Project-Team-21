@@ -1261,7 +1261,7 @@ function getallissues(type) {
       transporter.sendMail(mailOptions1, (error, info) => {
         if (error) {
           console.log(error);
-          // session.send("unable to send message");
+          // session.send("unable to send  message");
           return;
         }
       });
