@@ -7,7 +7,7 @@ jQuery(document).ready(function() {
     $.backstretch("assets/img/backgrounds/cust-service.jpg");
     
     /*
-        Form validation
+        Form validation 
     */
     $('.login-form input[type="text"], .login-form input[type="password"], .login-form textarea').on('focus', function() {
     	$(this).removeClass('input-error');
