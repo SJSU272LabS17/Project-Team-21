@@ -26,7 +26,7 @@ npm install
 
 * npm start to start the local server
 ```
-npm start 
+npm start  
 ```
 # Code Overview
 
